@@ -13,6 +13,6 @@ namespace Proyecto.DAL.EF
 
         }
 
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
     }
 }

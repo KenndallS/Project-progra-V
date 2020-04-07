@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {}
+    "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
+    "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
         "projectName": "Proyecto.DAL.EF",
-        "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
-        "packagesPath": "C:\\Users\\kennd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kennd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
-                "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
+              "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+                "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+    "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
         "projectName": "Proyecto.DO",
-        "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
-        "packagesPath": "C:\\Users\\kennd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kennd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

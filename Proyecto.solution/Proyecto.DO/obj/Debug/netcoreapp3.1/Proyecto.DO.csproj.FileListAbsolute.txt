@@ -1,0 +1,8 @@
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\bin\Debug\netcoreapp3.1\Proyecto.DO.deps.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\bin\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\bin\Debug\netcoreapp3.1\Proyecto.DO.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\obj\Debug\netcoreapp3.1\Proyecto.DO.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\obj\Debug\netcoreapp3.1\Proyecto.DO.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\obj\Debug\netcoreapp3.1\Proyecto.DO.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\obj\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DO\obj\Debug\netcoreapp3.1\Proyecto.DO.pdb

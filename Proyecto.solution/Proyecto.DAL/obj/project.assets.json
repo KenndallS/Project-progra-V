@@ -4982,19 +4982,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kennd\\.nuget\\packages\\": {}
+    "C:\\Users\\alexa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj",
       "projectName": "Proyecto.DAL",
-      "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj",
-      "packagesPath": "C:\\Users\\kennd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL\\obj\\",
+      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kennd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5007,14 +5007,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
-              "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj"
             },
-            "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj": {
-              "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj"
             },
-            "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
-              "projectPath": "C:\\Users\\kennd\\source\\repos\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
+            "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+              "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
             }
           }
         }
@@ -5042,7 +5042,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

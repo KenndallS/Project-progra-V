@@ -2,3 +2,17 @@ C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcorea
 C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
 C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfoInputs.cache
 C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.deps.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DO.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.genruntimeconfig.cache

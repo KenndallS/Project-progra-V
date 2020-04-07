@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.deps.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.Repository.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DAL.Repository.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\bin\Debug\netcoreapp3.1\Proyecto.DO.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.DAL\obj\Debug\netcoreapp3.1\Proyecto.DAL.pdb

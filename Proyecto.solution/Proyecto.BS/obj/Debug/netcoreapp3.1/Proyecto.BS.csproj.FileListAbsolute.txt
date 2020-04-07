@@ -1,0 +1,17 @@
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.BS.deps.json
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.BS.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.BS.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.Repository.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.Repository.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DAL.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\bin\Debug\netcoreapp3.1\Proyecto.DO.pdb
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.dll
+C:\Users\alexa\Documents\GitHub\Project-progra\Proyecto.solution\Proyecto.BS\obj\Debug\netcoreapp3.1\Proyecto.BS.pdb
