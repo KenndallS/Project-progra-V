@@ -1,0 +1,4 @@
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.deps.json
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.EF\obj\Debug\netcoreapp3.1\Proyecto.DAL.EF.AssemblyInfo.cs

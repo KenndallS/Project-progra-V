@@ -1,0 +1,4 @@
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.Repository\bin\Debug\netcoreapp3.1\Proyecto.DAL.EF.dll
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.Repository\bin\Debug\netcoreapp3.1\Proyecto.DO.dll
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.Repository\obj\Debug\netcoreapp3.1\Proyecto.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\kennd\source\repos\Proyecto.solution\Proyecto.DAL.Repository\obj\Debug\netcoreapp3.1\Proyecto.DAL.Repository.AssemblyInfo.cs
