@@ -241,3 +241,8 @@ C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Cor
 C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioAPI\Edit.cshtml.g.cs
 C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioAPI\Delete.cshtml.g.cs
 C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Proyecto.Core.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\ProductoAPI\Index.cshtml.g.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\ProductoAPI\Create.cshtml.g.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\ProductoAPI\Details.cshtml.g.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\ProductoAPI\Edit.cshtml.g.cs
+C:\Users\alexa\Documents\GitHub\Project-progra\Solution.UI.Proyecto\Proyecto.Core\obj\Debug\netcoreapp3.1\Razor\Views\ProductoAPI\Delete.cshtml.g.cs
