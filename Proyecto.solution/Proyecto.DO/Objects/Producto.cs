@@ -12,7 +12,7 @@ namespace Proyecto.DO.Objects
         [Required]
         public string descripcion { get; set; }
         public int precio { get; set; }
-        public Boolean estado { get; set; }
+        public decimal estado { get; set; }
         public string comentario { get; set; }
     }
 }
