@@ -1,0 +1,48 @@
+﻿@model AuthSystem.Models.Detalle
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles</h1>
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.idOrden)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.idOrden)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.idProducto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.idProducto)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.cantidad)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.cantidad)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.precio)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.precio)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.idDetalle">Edit</a> |
+    <a asp-action="Index">Devuelta a la lista</a>
+</div>

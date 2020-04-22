@@ -10,9 +10,8 @@ namespace Proyecto.DO.Objects
         [Key]
         public int? idProducto { get; set; }
         [Required]
-        public string descripcion { get; set; }
+        public string nombre { get; set; }
+        [Required]
         public int precio { get; set; }
-        public decimal estado { get; set; }
-        public string comentario { get; set; }
     }
 }

@@ -12,8 +12,13 @@ namespace Proyecto.DAL.EF
         {
 
         }
-
-        public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<AspNetUsers> AspNetUsers { get; set; }
+        public DbSet<Carrito> Carrito { get; set; }
+        public DbSet<Detalle> Detalle { get; set; }
+        public DbSet<Direccion> Direccion { get; set; }
+        public DbSet<MetodoPago> MetodoPago { get; set; }
+        public DbSet<Orden> Orden { get; set; }
         public DbSet<Producto> Producto { get; set; }
+
     }
 }

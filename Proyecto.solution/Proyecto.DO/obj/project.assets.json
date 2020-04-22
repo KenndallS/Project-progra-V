@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
       "projectName": "Proyecto.DO",
-      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+      "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\Proyecto.solution\\Proyecto.DO\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -19,14 +19,12 @@ namespace Proyecto.api.Controllers
             _context = context;
         }
 
-        // GET: api/Usuario
         [HttpGet]
         public async Task<ActionResult<IEnumerable<data.Producto>>> GetProducto()
         {
             return new Proyecto.BS.Producto(_context).GetAll().ToList();
         }
 
-        // GET: api/Usuario/5
         [HttpGet("{id}")]
         public async Task<ActionResult<data.Producto>> GetProducto(int id)
         {
@@ -38,12 +36,8 @@ namespace Proyecto.api.Controllers
             }
 
             return Producto;
-            //return null;
         }
 
-        // PUT: api/Usuario/5
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for
-        // more details see https://aka.ms/RazorPagesCRUD.
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProducto(int id, data.Producto Producto)
         {
@@ -69,12 +63,8 @@ namespace Proyecto.api.Controllers
             }
 
             return NoContent();
-            //return null;
         }
 
-        // POST: api/Usuario
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for
-        // more details see https://aka.ms/RazorPagesCRUD.
         [HttpPost]
         public async Task<ActionResult<data.Producto>> PostProducto(data.Producto Producto)
         {
@@ -83,7 +73,6 @@ namespace Proyecto.api.Controllers
             return Producto;
         }
 
-        // DELETE: api/Usuario/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<data.Producto>> DeleteProducto(int id)
         {
@@ -97,7 +86,6 @@ namespace Proyecto.api.Controllers
 
 
             return Producto;
-            //return null;
         }
 
         private bool ProductoExists(int id)

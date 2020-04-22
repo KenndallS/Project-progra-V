@@ -1,0 +1,63 @@
+﻿@model IEnumerable<AuthSystem.Models.Direccion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Crear una nueva dirección</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.idUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.provincia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.canton)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.distrito)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.direccion)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.provincia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.canton)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.distrito)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idDireccion">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.idDireccion ">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.idDireccion">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+

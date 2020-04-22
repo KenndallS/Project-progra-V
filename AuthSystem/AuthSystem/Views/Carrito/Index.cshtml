@@ -1,0 +1,49 @@
+﻿@model IEnumerable<AuthSystem.Models.Carrito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Crear un nuevo carrito</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.idUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.idProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidad)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idCarrito">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.idCarrito">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.idCarrito">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+
