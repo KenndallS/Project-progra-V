@@ -5012,19 +5012,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\edu96\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
+      "projectUniqueName": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
       "projectName": "Proyecto.DAL.EF",
-      "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.EF\\obj\\",
+      "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj",
+      "packagesPath": "C:\\Users\\edu96\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edu96\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5037,8 +5037,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
-              "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
+            "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+              "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
             }
           }
         }

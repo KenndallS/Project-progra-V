@@ -1,11 +1,5 @@
 ﻿@model IEnumerable<AuthSystem.Models.Producto>
 
-@{
-    ViewData["Title"] = "Index";
-}
-
-<h1>Index</h1>
-
 <p>
     <a asp-action="Create">Crear un nuevo producto</a>
 </p>
@@ -35,7 +29,7 @@
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.idProducto">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.idProducto">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.idProducto">Delete</a>
+                    <a asp-action="Delete" asp-route-id="@item.idProducto" class="genric-btn danger">Delete</a>
                 </td>
             </tr>
         }

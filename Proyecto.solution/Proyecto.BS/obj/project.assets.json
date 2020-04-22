@@ -5003,19 +5003,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\edu96\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.BS\\Proyecto.BS.csproj",
+      "projectUniqueName": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.BS\\Proyecto.BS.csproj",
       "projectName": "Proyecto.BS",
-      "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.BS\\Proyecto.BS.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.BS\\obj\\",
+      "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.BS\\Proyecto.BS.csproj",
+      "packagesPath": "C:\\Users\\edu96\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.BS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edu96\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5028,17 +5028,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
-              "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj"
+            "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj": {
+              "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.EF\\Proyecto.DAL.EF.csproj"
             },
-            "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj": {
-              "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj"
+            "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj": {
+              "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL.Repository\\Proyecto.DAL.Repository.csproj"
             },
-            "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj": {
-              "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj"
+            "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj": {
+              "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DAL\\Proyecto.DAL.csproj"
             },
-            "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
-              "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
+            "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+              "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj"
             }
           }
         }

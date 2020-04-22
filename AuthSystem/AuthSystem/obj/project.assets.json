@@ -8498,19 +8498,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\edu96\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+      "projectUniqueName": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
       "projectName": "AuthSystem",
-      "projectPath": "C:\\Users\\alexa\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
-      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\source\\repos\\AuthSystem\\AuthSystem\\obj\\",
+      "projectPath": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+      "packagesPath": "C:\\Users\\edu96\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edu96\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8588,7 +8588,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Templating 3.1.0-preview1-19509-03 depende de Microsoft.CodeAnalysis.CSharp (>= 3.4.0-beta2-19477-01), pero no se encontró Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-19477-01. Se resolvió una mejor coincidencia aproximada de Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-final.",
+      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Templating 3.1.0-preview1-19509-03 depends on Microsoft.CodeAnalysis.CSharp (>= 3.4.0-beta2-19477-01) but Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-19477-01 was not found. An approximate best match of Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-final was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -8598,7 +8598,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Utils 3.1.0-preview1-19509-03 depende de Microsoft.CodeAnalysis.CSharp.Workspaces (>= 3.4.0-beta2-19477-01), pero no se encontró Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-19477-01. Se resolvió una mejor coincidencia aproximada de Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-final.",
+      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Utils 3.1.0-preview1-19509-03 depends on Microsoft.CodeAnalysis.CSharp.Workspaces (>= 3.4.0-beta2-19477-01) but Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-19477-01 was not found. An approximate best match of Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-final was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

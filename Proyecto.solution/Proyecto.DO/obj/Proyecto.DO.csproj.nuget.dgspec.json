@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {}
+    "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
+    "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+        "projectUniqueName": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
         "projectName": "Proyecto.DO",
-        "projectPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
-        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Downloads\\Proyecto.solution\\Proyecto.DO\\obj\\",
+        "projectPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\Proyecto.DO.csproj",
+        "packagesPath": "C:\\Users\\edu96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edu96\\source\\repos\\Project-progra-V\\Proyecto.solution\\Proyecto.DO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edu96\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

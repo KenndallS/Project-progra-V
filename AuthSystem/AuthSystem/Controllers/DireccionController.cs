@@ -12,7 +12,7 @@ namespace AuthSystem.Controllers
 {
     public class DireccionController : Controller
     {
-        string baseurl = "http://localhost:51572/";
+        string baseurl = "http://localhost:50729/";
 
         public async Task<ActionResult> Index()
         {

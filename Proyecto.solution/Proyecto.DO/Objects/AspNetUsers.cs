@@ -18,7 +18,7 @@ namespace Proyecto.DO.Objects
         public string PhoneNumber { get; set; }
         public Boolean PhoneNumberConfirmed { get; set; }
         public Boolean TwoFactorEnabled { get; set; }
-        public DateTime LockoutEnd { get; set; }
+        public DateTimeOffset LockoutEnd { get; set; }
         public Boolean LockoutEnabled { get; set; }
         public int AccessFailedCount { get; set; }
         public string FirstName { get; set; }
