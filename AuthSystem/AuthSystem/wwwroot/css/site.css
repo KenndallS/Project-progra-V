@@ -23,11 +23,12 @@ a {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+    
 
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {
@@ -50,19 +51,26 @@ button.accept-policy {
   font-size: 1rem;
   line-height: inherit;
 }
+h1 {
+    padding: 5px;
+    color: powderblue;
+    text-shadow: 10px 10px 10px #000000;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-  font-family:"Roboto",sans-serif;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    font-family: "Roboto",sans-serif;
+    background: url(../img/banner/fondoLogin.jpg) ;
 }
+
 .footer {
   position: absolute;
   bottom: 0;

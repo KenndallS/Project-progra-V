@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {}
+    "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {
+    "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\AuthSystem\\AuthSystem\\AuthSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
         "projectName": "AuthSystem",
-        "projectPath": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
-        "packagesPath": "C:\\Users\\edu96\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edu96\\Source\\Repos\\Project-progra-V\\AuthSystem\\AuthSystem\\obj\\",
+        "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Project-progra\\AuthSystem\\AuthSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edu96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

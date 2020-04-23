@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AuthSystem"
+    "\\AuthSystem",
+    "\\AuthSystem\\AuthSystem",
+    "\\AuthSystem\\AuthSystem\\Views",
+    "\\AuthSystem\\AuthSystem\\Views\\Shared",
+    "\\AuthSystem\\AuthSystem\\wwwroot",
+    "\\AuthSystem\\AuthSystem\\wwwroot\\css",
+    "\\AuthSystem\\AuthSystem\\wwwroot\\lib",
+    "\\AuthSystem\\AuthSystem\\wwwroot\\lib\\bootstrap",
+    "\\AuthSystem\\AuthSystem\\wwwroot\\scss"
   ],
   "SelectedNode": "\\AuthSystem\\AuthSystem.sln",
   "PreviewInSolutionExplorer": false

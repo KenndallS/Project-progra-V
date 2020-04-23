@@ -1,29 +1,29 @@
 ﻿@{
     Layout = "/Views/Shared/_Layout.cshtml";
 }
-<div class="row">
-    <div class="col-md-6 offset-md-3">
-        <div class="card login-logout-tab">
-            <div class="card-header">
-                <ul class="nav nav-tabs card-header-tabs">
-                    <li class="nav-item">
-                        <a class="nav-link" href='/Identity/Account/Login'>Sign In</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/Identity/Account/Register">Sign Up</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="card-content">
-                <div class="row">
-                    <div class="col-md-12">
-                        @RenderBody()
+    <div class="row">        
+        <div class="col-md-6 offset-md-3">
+            <div class="card login-logout-tab shadow p-3 mb-5 bg-white rounded">
+                <div class="card-header">
+                    <ul class="nav nav-tabs card-header-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link" href='/Identity/Account/Login'>Iniciar Sesión</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Identity/Account/Register">Registrarse</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            @RenderBody()
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 @section Scripts{
     @RenderSection("Scripts",required:false)
 <script>
